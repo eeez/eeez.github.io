@@ -1,2 +1,1 @@
-# ontheway.github.io
-ez's blog
+# a Easy blog
